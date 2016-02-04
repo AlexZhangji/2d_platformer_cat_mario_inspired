@@ -1,0 +1,8 @@
+
+ //i)fix the out of bounds bug
+// ii)make clear the animation and collision
+//	iii)destanation image? and sound effects.
+//	iv)modify the blind cat visual effects
+//	v) death effect 
+//	vi)Music length change
+//	vii) bounce sound effect	
