@@ -25,16 +25,17 @@ In this game, your will:
 ### Game Mechanics:
 This game is based on various traps you can place in the game.
 
-<img src="https://i.gyazo.com/0d6f4de4034b70a2029986a72d4aeafb.jpg" width="100; "> <strong>Call of Communism</strong>
-When invoked, for 10s, background music becomes The East Is Red, image of Chairman Mao appears and invert all user input.(Up becomes down, press forward results in backward.)
+<img src="https://i.gyazo.com/0d6f4de4034b70a2029986a72d4aeafb.jpg" width="100; "> <strong>Call of Communism</strong><br>
+When invoked, for 10s, background music becomes The East Is Red, image of Chairman Mao appears and invert all user input.(Up becomes down, press forward results in backward.)<br>
 
 <img src="https://i.gyazo.com/c46c45c86923b697dbe1dfed1f04cc1b.jpg" >
 <hr>
 
 <img src="https://i.gyazo.com/ddb2919d448b1b850a993e4f616f92c2.jpg" width="100"><strong>Cheshire Cat
-</strong>
+</strong><br>
+for 10s, with bone-chilling background music, player will have very limited view and can see your friend grinning like a Cheshire cat.<br>
+
 <img src="https://i.gyazo.com/20c9757e8e599484049f666ca93e031f.jpg">
-for 10s, with bone-chilling background music, player will have very limited view and can see your friend grinning like a Cheshire cat.
 <hr>
 
 <img src="https://i.gyazo.com/fc68f8b0e1be8511c07a855b7c61c80a.jpg" width="100"><strong>Warp Gate</strong>
