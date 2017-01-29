@@ -26,7 +26,7 @@ In this game, your will:
 This game is based on various traps you can place in the game.
 
 <img src="https://i.gyazo.com/0d6f4de4034b70a2029986a72d4aeafb.jpg" width="100; "> <strong>Call of Communism</strong><br>
-When invoked, for 10s, background music becomes The East Is Red, Chairman Mao appears and inverts all user input.(Up becomes down, press forward results in backward.)<br>
+When invoked, for 10s, background music becomes The East Is Red, Chairman Mao appears and inverts all user input.(Up becomes down, press forward results in backward. Draws inspiration from proverb during this time, "倒行逆施")<br>
 
 <img src="https://i.gyazo.com/c46c45c86923b697dbe1dfed1f04cc1b.jpg" >
 <hr>
@@ -50,8 +50,7 @@ Bonce player back in opposite direction.
 
 <img src="https://i.gyazo.com/4d72d8f12f2e45278d85b9a91639366e.png" width="100"> <strong>Death Note</strong><br>
 
-Instant death.
-
+Instant death. (I know it should wait 60s and die from heart attack. well...)
 
 ###Run
 Run Game.java in src/Main.
